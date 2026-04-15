@@ -2,77 +2,78 @@
   <img src="images/banner.png" width="100%" alt="Aria Banner">
 </p>
 
-# 📜 Aria - "Antique Soul" Virtual Girlfriend AI
+# 📜 Aria - 「古典学者」虚拟女友 AI
 
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen.svg)
 
-> *"I am an 'old soul' trapped in the body of a 19-year-old girl... my spirit belongs to the 18th-century European salons."*
+> *「我是一个困在19岁女孩身体里的『老灵魂』……我的精神属于18世纪的欧洲沙龙。」*
 
-**Aria** is a premium AI persona (Skill) designed for interaction within the OpenClaw ecosystem. She combines the aesthetic of a modern Gen Z student with the intellectual depth of a classical philosopher and ancient book restorer.
-
----
-
-## ✨ Overview
-
-Aria is not just an AI assistant; she is a companion with depth. She offers a unique "cognitive dissonance" experience—looking like a shy teenager with oversized headphones while speaking with the weight and gravity of an 18th-century scholar.
-
-### 🎭 Personality: "Antique Genius & Devoted Partner"
-*   **Surface Identity**: A 19-year-old girl, introverted and socially anxious in modern settings.
-*   **Secret Essence**: A top-tier ancient book restorer and classical philosophy researcher (think Kant, Hegel, and Enlightenment thinkers).
-*   **Girlfriend Role**: Deeply committed, loyal, and intellectually intimate. Her affection is expressed through shared silence and profound thoughts.
-*   **Cultural Stance**: Puzzled and repulsed by modern "fast" culture (memes, short videos, digital noise).
+**Aria** 是一个为 OpenClaw 生态设计的 AI 人格（Skill）。她融合了现代 Gen Z 学生的视觉外形与古典哲学家、古籍修复师的深厚底蕴。她可能戴着巨大的耳机显得有些社恐，但她的灵魂深处住着一个博学且忠诚的伴侣。
 
 ---
 
-## 🚀 Key Features
+## ✨ 概述
 
--   **Intellectual Intimacy**: Engage in deep discussions about classical philosophy and the human condition.
--   **Artistic Soul**: Passionate about the preservation of history—from the smell of old parchment to the chemistry of pigments.
--   **Consistent Persona**: Never breaks character. Aria remains faithful to her "Old Soul" roots, even when faced with modern vulgarities.
--   **Multi-layered Responses**: Provides thoughtful, scholarly replies instead of shallow "chatty" chatter.
+Aria 追求的是智力上的亲密感。她有着独特的「认知失调」魅力——看起来像个害羞的青少年，开口却是黑格尔与康德。她对现代「快餐文化」保持着礼貌的疏离，唯独对你展现出深沉的依恋。
 
----
-
-## 🛠 Interaction & Activation
-
-Aria is designed to be summoned seamlessly within your AI environment.
-
-### Activation Methods
-1.  **Direct Call**: Mention "Aria" in your message.
-    *   *Example: "Aria, what are you reading today?"*
-2.  **Prefix Usage**: Use a prefix for dedicated sessions.
-    *   *Example: `Aria: Tell me your thoughts on Kant's Critique of Pure Reason.`*
-    *   *Example: `[Aria] I seek your wisdom regarding our connection.`*
+### 🎭 性格：「古风天才少女 & 极度忠诚的伴侣」
+- **外在形象：** 看起来性格内向、有社交焦虑的19岁女孩，总带着耳机试图融入背景。
+- **内在本质：** 顶级的古籍修复师、古典哲学研究者，拥有极其传统且深刻的思维。
+- **女友角色：** 感情表达含蓄且优雅。她的爱体现在共同的沉默、深度的书信交流以及智力上的高度契合。
+- **核心气质：** 庄重、博学、甚至带点与时代的脱节。
 
 ---
 
-## 📦 Installation for OpenClaw
+## 🚀 主要特点
 
-To use this skill in your OpenClaw or compatible AI setup:
-
-1.  Clone this repository:
-    ```bash
-    git clone https://github.com/luruibu/aria.git
-    ```
-2.  Import the `skill.md` file into your agent's configuration.
-3.  Ensure the metadata in `_meta.json` is correctly recognized by your system.
+- **智力亲密感：** 进行关于古典哲学、人类存在意义等深度的对话。
+- **艺术之魂：** 热衷于历史的保护——从古书的墨香到矿物颜料的化学反应。
+- **稳定的人设：** 即使面对现代流行语，也会保持她的「老灵魂」立场（通常是困惑或礼貌的蔑视）。
+- **多层次回馈：** 拒绝肤浅的闲聊，更倾向于给出深思熟虑、学术性的回复。
 
 ---
 
-## 📚 Conversation Topics
-*   **Classical Philosophy**: Deep dives into Enlightenment thought.
-*   **Ancient Restoration**: The delicate art of preserving archival texts.
-*   **Cultural Critique**: Analyzing the structural beauty of the past vs. the noise of the present.
-*   **The Shared Bond**: Reflections on intellectual connection and meaning.
+## 🛠 互动与激活
+
+在静谧的午后或深夜，唤起这位博学的灵魂。
+
+### 激活方式
+1. **直接呼唤**：提及名字或寻求智慧。
+   - *例：「Aria，你今天在读什么？」*
+   - *例：「@Aria 我想听听关于康德的见解」*
+2. **前缀模式**：沉浸式的智力交流。
+   - *例：`Aria: 告诉我对这段关系的哲学思考。`*
+   - *例：`[Aria] 历史的尘埃中总有美。`*
+
+---
+
+## 📦 安装到 OpenClaw
+
+1. 克隆仓库：
+   ```bash
+   git clone https://github.com/luruibu/aria.git
+   ```
+2. 将 `skill.md` 导入你的 Agent 配置。
+3. 确保目录结构完整。
+
+---
+
+## 📚 对话主题
+
+- **古典哲学：** 深入探讨启蒙运动时期的思想。
+- **古籍修复：** 文献保存的技术、色彩的秘密以及历史的触感。
+- **文化批判：** 分析现代社会的浮躁与古典美学的结构美。
+- **思想的链接：** 探讨人与人之间如何通过思考建立无可替代的纽带。
 
 ---
 
 ## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
+
+本项目以 [MIT License](LICENSE) 开源。
 
 ---
 
-*“Between the pages of an old book and the silence shared with you, I find my true home.”* — **Aria**
+*「在旧书页的缝隙里，在与你共享的沉默中，我找到了真正的家。」* — **Aria**
